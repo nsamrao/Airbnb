@@ -1,7 +1,7 @@
 # Airbnb
 An Exploratory Data Analysis of Airbnb Listing Market in U.S. Cities using Python.
 
-An analysis of Airbnb listings of popular US travel destinations in conjuction with Zillow's residential real estate data to predict price of Airbnb listings given the housing climate of a US city.
+An analysis of Airbnb listings of popular US travel destinations in conjunction with Zillow's residential real estate data to predict price of Airbnb listings given the housing climate of a US city.
 
 This exploration is conducted in three parts:
 
