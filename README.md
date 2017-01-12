@@ -1,2 +1,2 @@
 # Airbnb
-An Analysis of Airbnb Listing Market in U.S. Cities
+An Exploratory Data Analysis of Airbnb Listing Market in U.S. Cities using Python.
